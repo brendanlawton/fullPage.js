@@ -484,7 +484,7 @@ $.fn.fullpage.moveSectionDown();
 ```
 ---
 ### moveTo(section, slide)
-[Demo](http://codepen.io/alvarotrigo/pen/doqOmY) Scrolls the page to the given section and slide. The first slide, the visible one by default, will have index 0.
+[Demo](http://codepen.io/alvarotrigo/pen/doqOmY) Scrolls the page to the given section and slide. The first slide, the visible one by default, will have index 1.
 ```javascript
 /*Scrolling to the section with the anchor link `firstSlide` and to the 2nd Slide */
 $.fn.fullpage.moveTo('firstSlide', 2);
